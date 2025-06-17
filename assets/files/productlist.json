@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "id": "p01",
+      "name": "iPhone 16 Pro Max",
+      "price": 30190000,
+      "img": "iphone16promax.jpg",
+      "des": "iPhone 16 Pro Max trang bị chip A18 Bionic, màn hình Super Retina XDR 6.7 inch, cụm 3 camera ProRAW, khung titan và thời lượng pin vượt trội."
+    },
+    {
+      "id": "p02",
+      "name": "iPhone 16e",
+      "price": 14199000,
+      "img": "iphone16e.png",
+      "des": "iPhone 16 SE là phiên bản tiết kiệm với chip A17, màn hình 6.1 inch, camera đơn 12MP, hỗ trợ Face ID và iOS 18."
+    },
+    {
+      "id": "p03",
+      "name": "iPhone 15 Pro",
+      "price": 22399000,
+      "img": "iphone15pro.png",
+      "des": "iPhone 15 Pro sở hữu chip A17 Pro, màn hình OLED 6.1 inch, khung titan, cụm camera ProRAW và hỗ trợ quay video ProRes."
+    },
+    {
+      "id": "p04",
+      "name": "iPhone 15",
+      "price": 15990000,
+      "img": "iphone15.png",
+      "des": "iPhone 15 với chip A16 Bionic, màn hình 6.1 inch, camera kép 48MP, Dynamic Island và cổng USB-C."
+    },
+    {
+      "id": "p05",
+      "name": "Galaxy S25 Ultra",
+      "price": 21799000,
+      "img": "galaxy_S25_Ultra.png",
+      "des": "Samsung Galaxy S25 Ultra trang bị Snapdragon 8 Gen 4, màn hình AMOLED 6.8 inch, camera chính 200MP, bút S Pen và pin 5000mAh."
+    },
+    {
+      "id": "p06",
+      "name": "Galaxy Z Flip 6",
+      "price": 13699000,
+      "img": "galaxy_Z_Flip6.png",
+      "des": "Galaxy Z Flip6 là điện thoại gập dọc với màn hình Dynamic AMOLED 6.7 inch, chip Snapdragon 8 Gen 2, camera kép 12MP và thiết kế thời trang."
+    },
+    {
+      "id": "p07",
+      "name": "Galaxy Z Fold 6",
+      "price": 39490000,
+      "img": "galaxy_Z_Fold6.png",
+      "des": "Galaxy Z Fold6 sở hữu màn hình chính 7.6 inch và màn hình phụ 6.2 inch, chip Snapdragon 8 Gen 2, hỗ trợ bút S Pen và đa nhiệm mạnh mẽ."
+    },
+    {
+      "id": "p08",
+      "name": "Galaxy S24",
+      "price": 16590000,
+      "img": "galaxy_s24.jpg",
+      "des": "Galaxy S24 với màn hình AMOLED 6.1 inch, chip Snapdragon 8 Gen 3, camera chính 50MP và pin 4000mAh."
+    },
+    {
+      "id": "p09",
+      "name": "Google Pixel 9 Pro",
+      "price": 21599000,
+      "img": "pixel9pro.png",
+      "des": "Google Pixel 9 Pro trang bị chip Tensor G4, màn hình OLED 6.7 inch, camera chính 50MP, hỗ trợ AI và cập nhật Android nhanh chóng."
+    },
+    {
+      "id": "p10",
+      "name": "Google Pixel 9a",
+      "price": 12902175,
+      "img": "pixel9a.png",
+      "des": "Google Pixel 9a là phiên bản tiết kiệm với chip Tensor G3, màn hình OLED 6.1 inch, camera 12.2MP và trải nghiệm Android thuần khiết."
+    },
+    {
+      "id": "p11",
+      "name": "Google Pixel 8",
+      "price": 11900000,
+      "img": "pixel8.png",
+      "des": "Google Pixel 8 với chip Tensor G3, màn hình OLED 6.2 inch, camera chính 50MP và hỗ trợ cập nhật phần mềm lâu dài."
+    },
+    {
+      "id": "p12",
+      "name": "Xiaomi 15 Ultra",
+      "price": 23599000,
+      "img": "xiaomi15ultra.png",
+      "des": "Xiaomi 15 Ultra sở hữu chip Snapdragon 8 Gen 3, màn hình AMOLED 6.73 inch, cụm 4 camera Leica và pin 5000mAh."
+    },
+    {
+      "id": "p13",
+      "name": "Xiaomi 15 Pro",
+      "price": 16499000,
+      "img": "xiaomi15Pro.png",
+      "des": "Xiaomi 15 Pro trang bị chip Snapdragon 8 Gen 3, màn hình AMOLED 6.67 inch, camera chính 50MP và sạc nhanh 120W."
+    },
+    {
+      "id": "p14",
+      "name": "Xiaomi 13 Pro",
+      "price": 14990000,
+      "img": "xiaomi13pro.jpg",
+      "des": "Xiaomi 13 Pro với chip Snapdragon 8 Gen 2, màn hình AMOLED 6.73 inch, camera chính 50MP và sạc nhanh 120W."
+    },
+    {
+      "id": "p15",
+      "name": "Nokia 3310",
+      "price": 1042600,
+      "img": "Nokia3310.png",
+      "des": "Nokia 3310 là điện thoại cơ bản với thiết kế bền bỉ, pin lâu và hỗ trợ nghe gọi, nhắn tin cơ bản."
+    },
+    {
+      "id": "p16",
+      "name": "Nokia 3310 2017",
+      "price": 1175010,
+      "img": "nokia_3310_2017.jpg",
+      "des": "Nokia 3310 phiên bản 2017 với thiết kế cổ điển, màn hình màu 2.4 inch, hỗ trợ 2 SIM và pin 1200mAh."
+    },
+    {
+      "id": "p17",
+      "name": "Oppo Find N5",
+      "price": 44990000,
+      "img": "OppoFindN5.png",
+      "des": "Oppo Find N5 là điện thoại gập ngang với màn hình chính 7.1 inch, chip Snapdragon 8 Gen 2, camera chính 50MP và thiết kế sang trọng."
+    },
+    {
+      "id": "p18",
+      "name": "Oppo Find X8 Pro",
+      "price": 18290000,
+      "img": "OppoFindX8Pro.png",
+      "des": "Oppo Find X8 Pro trang bị chip Snapdragon 8 Gen 3, màn hình AMOLED 6.82 inch, camera chính 50MP và sạc nhanh 100W."
+    },
+    {
+      "id": "p19",
+      "name": "Realme 13+",
+      "price": 7990000,
+      "img": "realme13plus.jpg",
+      "des": "Realme 13+ với chip MediaTek Dimensity 7050, màn hình AMOLED 6.67 inch, camera chính 108MP và pin 5000mAh."
+    },
+    {
+      "id": "p20",
+      "name": "Realme Note",
+      "price": 2490000,
+      "img": "realmeNote.jpg",
+      "des": "Realme Note 50 sở hữu chip Unisoc T612, màn hình 6.74 inch, camera chính 13MP và pin 5000mAh."
+    },
+    {
+      "id": "p21",
+      "name": "Realme C71",
+      "price": 4290000,
+      "img": "realme_c71.jpg",
+      "des": "Realme C71 với chip Unisoc T612, màn hình 6.5 inch, camera chính 13MP và pin 5000mAh."
+    },
+    {
+      "id": "p22",
+      "name": "Realme C65s",
+      "price": 4290000,
+      "img": "realme_c65s.jpg",
+      "des": "Realme C65s trang bị chip MediaTek Helio G85, màn hình 6.5 inch, camera chính 50MP và pin 5000mAh."
+    }
+  ]
+}
